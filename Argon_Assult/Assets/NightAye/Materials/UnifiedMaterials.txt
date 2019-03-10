@@ -1,0 +1,5 @@
+These unified materials are suitable when using different spaceships from our Unity Asset Store collection.
+
+We have added a set of unified materials for all spaceships. These unified materials, enable you to combine different spaceship modules together, or create factions with a unified color. In pervious versions, doing that would have been challenging as each spaceship had a different color which would not match with the other spaceships. 
+
+We have kept all the old textures to give you a variety of materials to choose from. If you need any different colors or different textures please feel free to open and modify the substance painter files if you had the software installed.
